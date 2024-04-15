@@ -7,3 +7,5 @@ A successful run should look something like this:
 
 ![Output 5](https://github.com/ashaydave/MixtapeMe-OpenAI-Assistant/assets/112194962/a197a908-389e-4740-b84d-eca63da14999)
 
+I also have a couple of other functions such as helloWorld and getTimeOfDay, which was just me checking if the function calling works.
+
