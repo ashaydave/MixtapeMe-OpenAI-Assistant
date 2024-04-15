@@ -1,0 +1,15 @@
+# Ignore node_modules folder and env
+node_modules/
+
+# Ignore Ashay Dave - Project_3_MMI_611 zip file
+Ashay Dave - Project_3_MMI_611.zip
+
+# Ignore images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# Secret
+.env
