@@ -1,5 +1,5 @@
 import puppeteer from 'puppeteer-core';
-const SBR_WS_ENDPOINT = 'wss://brd-customer-hl_f6e821a2-zone-scraping_browser1-country-us:63ag3t61ir7l@brd.superproxy.io:9222';
+const SBR_WS_ENDPOINT = '';
 
 async function main(keyword) {
     console.log('Connecting to Scraping Browser...');
